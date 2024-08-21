@@ -1,0 +1,15 @@
+#tooltip {
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.bar {
+    fill: steelblue;
+}
+svg {
+    display: block;
+    margin: 0 auto;
+}
